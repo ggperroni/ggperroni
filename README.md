@@ -5,7 +5,7 @@
 <pre>
     💼 Android Developer
     💻 Kotlin • Jetpack Compose, Kotlin Multiplatform 
-    📖 Computer Scientist at Universidade Católica de Santos
+    📖 BS Computer Science at Universidade Católica de Santos
     🎮 Music • Games • Movies • Code • Math
 </pre>
 <br><br>
