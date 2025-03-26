@@ -5,8 +5,7 @@
 <pre>
     💼 Android Mobile Developer
     💻 Kotlin • Jetpack Compose, Kotlin Multiplatform 
-    📖 BS Computer Science at Universidade Católica de Santos
-    🎮 Music • Games • Movies • Code • Math
+    🎮 Music • Movies • Code • Math
 </pre>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="60" />
