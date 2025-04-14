@@ -9,10 +9,8 @@
 </pre>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="60" />
-<br><br><br>
+<br><br>
     
-[![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
-)](http://guilhermeperroni.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/in/guilherme-perroni)
 </div>
