@@ -8,9 +8,9 @@
     🎮 Music • Movies • Code • Math
 </pre>
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="60" />
-<br><br>
     
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://linkedin.com/in/guilherme-perroni)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-perroni)
+<br><br>
+![Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,swift,dart,flutter&perline=3)
+
 </div>
